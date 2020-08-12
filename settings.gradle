@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Tugas UAS AKB IF-3 10117110"

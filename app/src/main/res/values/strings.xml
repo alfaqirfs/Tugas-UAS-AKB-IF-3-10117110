@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Wisata Bandung</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string-array name="wilayah">
+        <item>Kota bandung</item>
+        <item>Kab. Bandung</item>
+        <item>Kab. Bandung Barat</item>
+    </string-array>
+    <string-array name="wilayah2">
+        <item>Kab. Bandung</item>
+        <item>Kota bandung</item>
+        <item>Kab. Bandung Barat</item>
+    </string-array>
+    <string-array name="wilayah3">
+        <item>Kab. Bandung Barat</item>
+        <item>Kota bandung</item>
+        <item>Kab. Bandung</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="map_key">AIzaSyB_qsP8AOP_P0MdlPz-48TDaJYjTP3vbjo</string>
+
+    <array name="autosize_text_sizes">
+    <item>23sp</item>
+    <item>30sp</item>
+    </array>
+</resources>
